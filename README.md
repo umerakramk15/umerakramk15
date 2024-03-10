@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Muhammad Umer
 Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br><br>🎓 Currently a 2nd-year student pursuing a BSc in Computer Science at BCIT<br><br>🔧 Specializing in WordPress web development, MERN stack, and PERN stack<br><br>💼 Freelancer | Startup Advisor | Open Source Contributor<br><br>🌟 Winner of Web Development Competitions | C++ Enthusiast<br><br>📧 Contact: muhammad.umer@example.com<br><br>🌐 GitHub: github.com/muhammadumer
 
 
