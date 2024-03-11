@@ -3,6 +3,9 @@
 <h1 align="center">
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Muhammad Umer</a>
 </h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Full-Stack+Developer+~+!" alt="Typing SVG" /></a>
+</h3>
 Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br><br>🎓 Currently a 2nd-year student pursuing a BSc in Computer Science at BCIT<br><br>🔧 Specializing in WordPress web development, MERN stack, and PERN stack<br><br>💼 Freelancer | Startup Advisor | Open Source Contributor<br><br>🌟 Winner of Web Development Competitions | C++ Enthusiast<br><br>📧 Contact: muhammad.umer@example.com<br><br>🌐 GitHub: github.com/muhammadumer
 
 
