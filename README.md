@@ -1,3 +1,5 @@
+#<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 # 💫 About Me: I'm Muhammad Umer
 Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br><br>🎓 Currently a 2nd-year student pursuing a BSc in Computer Science at BCIT<br><br>🔧 Specializing in WordPress web development, MERN stack, and PERN stack<br><br>💼 Freelancer | Startup Advisor | Open Source Contributor<br><br>🌟 Winner of Web Development Competitions | C++ Enthusiast<br><br>📧 Contact: muhammad.umer@example.com<br><br>🌐 GitHub: github.com/muhammadumer
 
@@ -10,7 +12,7 @@ Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br>
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=umerakramk15&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=umerakramk15&theme=dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umerakramk15&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umerakramk15)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
