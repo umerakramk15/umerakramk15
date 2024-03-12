@@ -45,9 +45,9 @@ Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerakramk15&show_icons=true&theme=dark)<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerakramk15&count_private=true&show_icons=true&theme=dark" align="center"/>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerakramk15&layout=compact&theme=dark)
 
 <br>
 
