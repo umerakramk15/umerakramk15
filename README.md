@@ -39,10 +39,11 @@ Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br>
 <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=umerakramk15&theme=dark)](https://git.io/streak-stats)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umerakramk15&theme=dark&card_width=505)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerakramk15&layout=compact&theme=dark" align="center"/><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umerakramk15&theme=dark&card_width=505)](https://git.io/streak-stats)<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerakramk15&show_icons=true&theme=dark)<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerakramk15&count_private=true&show_icons=true&theme=dark" align="center"/>
 
@@ -60,7 +61,7 @@ Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br>
 
 <br>
 
-<br>
+
 
 
 ![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
