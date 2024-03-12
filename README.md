@@ -39,9 +39,12 @@ Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br>
 <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=umerakramk15&theme=dark)](https://git.io/streak-stats)<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerakramk15&show_icons=true&locale=en&layout=compact&theme=dark" align = "center"/><br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerakramk15&count_private=true&show_icons=true&theme=dark" align = "center"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=umerakramk15&theme=dark)](https://git.io/streak-stats)<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerakramk15&layout=compact&theme=dark" align="center"/><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerakramk15&count_private=true&show_icons=true&theme=dark" align="center"/>
+
 
 
 <br>
