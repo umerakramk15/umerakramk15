@@ -40,6 +40,7 @@ Enthusiastic Software Developer | WordPress, MERN, and PERN Stack Enthusiast<br>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=umerakramk15&theme=dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umerakramk15&theme=dark&card_width=505)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerakramk15&layout=compact&theme=dark" align="center"/><br>
 
